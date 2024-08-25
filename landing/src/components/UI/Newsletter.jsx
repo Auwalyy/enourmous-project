@@ -13,7 +13,7 @@ const Newsletter = () => {
 
                <div className="newsletter__form">
                 <input type="email" placeholder='email' />
-                <button className='secondary__btn'>Subscribe Now</button>
+                <button className='secondary__btn subscribe__btn'>Subscribe Now</button>
                </div>
 
             </div>
